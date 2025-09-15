@@ -24,7 +24,7 @@ GitHub-Training/
 ### 受講者の方へ
 1. [HANDSON_GUIDE.md](./HANDSON_GUIDE.md) を開く
 2. Step 1 から順番に進める
-3. 困ったら講師に質問
+3. 困ったら質問
 
 ### 講師の方へ
 1. [INSTRUCTOR_GUIDE.md](./INSTRUCTOR_GUIDE.md) で事前準備を確認
@@ -57,15 +57,3 @@ GitHub-Training/
 ## 🔗 リポジトリ情報
 - **URL**: https://github.com/Retr0413/GitHub-Training
 - **アクセス**: 研修参加者には Write 権限を付与
-
-## 💡 研修後の次のステップ
-- Issue の作成と管理
-- コードレビューの実践
-- ブランチ戦略の理解
-- GitHub Actions の基礎
-
-## 📧 お問い合わせ
-研修に関する質問は、Issue を作成するか、講師まで直接お問い合わせください。
-
----
-*この研修資料は GitHub 初心者が実践的にスキルを身につけることを目的としています*
