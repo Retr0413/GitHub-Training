@@ -20,8 +20,8 @@ GitHub未経験者が30分で実際の開発フローを体験し、基本操作
 ### Step 1: リポジトリをクローン（5分）
 ```bash
 # リポジトリをローカルにコピー
-git clone https://github.com/[組織名]/[リポジトリ名].git
-cd [リポジトリ名]
+git clone https://github.com/Retr0413/GitHub-Training.git
+cd GitHub-Training
 ```
 
 ### Step 2: 作業ブランチを作成（3分）
