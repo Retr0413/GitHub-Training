@@ -35,6 +35,8 @@ git checkout -b feature/add-readme-[あなたの名前]
 ### Step 3: 自己紹介ファイルを作成（7分）
 ```bash
 # ファイルを新規作成（名前は自分の名前に変更）
+
+code .
 touch README_[あなたの名前].md
 ```
 
